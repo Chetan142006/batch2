@@ -1,6 +1,6 @@
-#H1
+#This is Basic file 
 
-##h2
+##This is for practice
 
 *This sentence will be in italic*
 
@@ -8,14 +8,12 @@
 
 ***This sentence will be in Bold-italic***
 
-###Ordered list 
-
+### Ordered list 
 1.Italic
 2.Bold
 3.Bold-italic
 
-####Unorderd list
-
+#### Unorderd list
 -a
 -b
 +c
