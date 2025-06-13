@@ -42,3 +42,14 @@ printf("Hello World");
 ![]() 
 
 ![Alt message](https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-37.jpeg?isig=0&q=80)
+
+
+### To use checklist 
+- [ ] Google
+- [ ] AWS
+- [ ] Linux
+- [ ] GitHub
+
+### Inset table 
+|||Name|||Courses|||
+|---|---|---|
