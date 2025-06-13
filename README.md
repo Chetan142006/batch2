@@ -1,6 +1,6 @@
-#This is Basic file 
+# This is Basic file 
 
-##This is for practice
+## This is for practice
 
 *This sentence will be in italic*
 
