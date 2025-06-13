@@ -51,5 +51,6 @@ printf("Hello World");
 - [ ] GitHub
 
 ### Inset table 
-|||Name|||Courses|||
+|Name|Courses|Duration|
 |---|---|---|
+|Chetan Sai|AWS|8 Weeks|
