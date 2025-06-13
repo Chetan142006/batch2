@@ -31,5 +31,6 @@ printf("Hello World");
 ### Horizontal line
 ---
 
-### inset any url 
+### how to insert any url 
+[tag name] (Url link)
 [Instagram](https://instagram.com/mr_chetan_1408)
